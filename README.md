@@ -3,11 +3,11 @@ Welcome to the Human Anatomy Puzzle Game project!
 
 ## 💡 Purpose
 This project was created to demonstrate:
---Debugging and problem-solving.
---Fixing functional bugs in an interactive drag-and-drop game.
---Proper element reparenting using JavaScript.
---Branch-based Git workflow for isolated bug fixes.
---Improved user experience with interactive drop zone highlighting.
+-Debugging and problem-solving.
+-Fixing functional bugs in an interactive drag-and-drop game.
+-Proper element reparenting using JavaScript.
+-Branch-based Git workflow for isolated bug fixes.
+-Improved user experience with interactive drop zone highlighting.
 
 ## Installation 💻
 No installation required, simply download the zip file and extract.
